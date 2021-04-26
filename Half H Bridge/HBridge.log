@@ -1,0 +1,48 @@
+Circuit: * C:\Users\lamtu\OneDrive\Documents\My_Projects\GrandPrIEEE\Circuit Simulation\HBridge.asc
+
+Warning: Multiple definitions of model "aons66402" Type: Vdmos1
+Limiting rise time of source v2 to 1e-006
+Limiting fall time of source v2 to 1e-006
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.000212758 to 0.000212768
+Heightened Def Con from 0.000212957 to 0.000212963
+Heightened Def Con from 0.000301876 to 0.000301886
+Heightened Def Con from 0.000312956 to 0.000312962
+Heightened Def Con from 0.000402613 to 0.000402619
+Heightened Def Con from 0.000412957 to 0.000412963
+Heightened Def Con from 0.000512758 to 0.000512768
+Heightened Def Con from 0.000512957 to 0.000512963
+Heightened Def Con from 0.000602624 to 0.00060263
+Heightened Def Con from 0.000612957 to 0.000612963
+Heightened Def Con from 0.000702624 to 0.00070263
+Heightened Def Con from 0.000712956 to 0.000712962
+Heightened Def Con from 0.000801876 to 0.000801885
+Heightened Def Con from 0.000802632 to 0.000802638
+Heightened Def Con from 0.000812957 to 0.000812963
+Heightened Def Con from 0.000901876 to 0.000901886
+Heightened Def Con from 0.000902626 to 0.000902632
+Heightened Def Con from 0.000912758 to 0.000912767
+Heightened Def Con from 0.000912957 to 0.000912963
+Heightened Def Con from 0.00100188 to 0.00100189
+Heightened Def Con from 0.00100263 to 0.00100263
+Heightened Def Con from 0.00101296 to 0.00101296
+Heightened Def Con from 0.0010135 to 0.0010135
+
+Date: Fri Apr 23 17:48:05 2021
+Total elapsed time: 26.248 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 144851
+traniter = 144837
+tranpoints = 44938
+accept = 33672
+rejected = 11289
+matrix size = 202
+fillins = 134
+solver = Alternate
+Thread vector: 177.1/117.0[8] 32.2/15.0[8] 23.0/11.9[8] 3.9/10.4[1]  2592/500
+Matrix Compiler1: 17.20 KB object code size  23.4/17.5/[5.1]
+Matrix Compiler2: 18.96 KB object code size  14.7/14.5/[3.4]
+
