@@ -1,0 +1,45 @@
+Circuit: * C:\Users\lamtu\OneDrive\Documents\My_Projects\GrandPrIEEE\Spice Parts\Audio Amplifier\Draft1.asc
+
+Warning: Multiple definitions of model "aons66402" Type: Vdmos1
+Limiting rise time of source v1 to 1e-006
+Limiting fall time of source v1 to 1e-006
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.000212956 to 0.000212962
+Heightened Def Con from 0.000412957 to 0.000412963
+Heightened Def Con from 0.000612956 to 0.000612962
+Heightened Def Con from 0.000712957 to 0.000712963
+Heightened Def Con from 0.000812957 to 0.000812963
+Heightened Def Con from 0.000902637 to 0.000902643
+Heightened Def Con from 0.000912957 to 0.000912963
+Heightened Def Con from 0.00101296 to 0.00101296
+Heightened Def Con from 0.00111296 to 0.00111296
+Heightened Def Con from 0.00121296 to 0.00121296
+Heightened Def Con from 0.00130188 to 0.00130188
+Heightened Def Con from 0.00131296 to 0.00131296
+Heightened Def Con from 0.00141296 to 0.00141296
+Heightened Def Con from 0.00151296 to 0.00151296
+Heightened Def Con from 0.00160188 to 0.00160188
+Heightened Def Con from 0.00161296 to 0.00161296
+Heightened Def Con from 0.00171296 to 0.00171296
+Heightened Def Con from 0.00180188 to 0.00180188
+Heightened Def Con from 0.00181296 to 0.00181296
+Heightened Def Con from 0.00191296 to 0.00191296
+
+Date: Mon Apr 26 15:23:46 2021
+Total elapsed time: 48.877 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 239262
+traniter = 239232
+tranpoints = 76699
+accept = 57372
+rejected = 19347
+matrix size = 201
+fillins = 128
+solver = Alternate
+Thread vector: 159.4/71.8[8] 35.3/18.9[8] 14.7/9.3[8] 4.5/8.4[1]  2592/500
+Matrix Compiler1: 16.84 KB object code size  19.8/15.7/[6.5]
+Matrix Compiler2: 18.76 KB object code size  22.5/12.9/[4.6]
+

@@ -1,0 +1,67 @@
+Circuit: * C:\Users\lamtu\OneDrive\Documents\My_Projects\GrandPrIEEE\Circuit Simulation\Half_H_Bridge.asc
+
+Limiting rise time of source v2 to 5e-006
+Limiting fall time of source v2 to 5e-006
+WARNING: Node N004 is floating.
+WARNING: Node N007 is floating.
+
+WARNING: Less than two connections to node VOUT_1.  This node is used by E1.
+WARNING: Less than two connections to node N004.  This node is used by E1.
+WARNING: Less than two connections to node N007.  This node is used by E1.
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 5.37856e-006 to 5.38856e-006
+Heightened Def Con from 6.11948e-006 to 6.12548e-006
+Heightened Def Con from 5.97887e-005 to 5.97987e-005
+Heightened Def Con from 5.99875e-005 to 5.99935e-005
+Heightened Def Con from 0.000105379 to 0.000105389
+Heightened Def Con from 0.000106118 to 0.000106124
+Heightened Def Con from 0.000159987 to 0.000159993
+Heightened Def Con from 0.000205379 to 0.000205389
+Heightened Def Con from 0.000206118 to 0.000206124
+Heightened Def Con from 0.000259789 to 0.000259799
+Heightened Def Con from 0.000259987 to 0.000259993
+Heightened Def Con from 0.000305379 to 0.000305389
+Heightened Def Con from 0.000306118 to 0.000306124
+Heightened Def Con from 0.000359789 to 0.000359799
+Heightened Def Con from 0.000359987 to 0.000359993
+Heightened Def Con from 0.000405379 to 0.000405389
+Heightened Def Con from 0.000406118 to 0.000406124
+Heightened Def Con from 0.000459789 to 0.000459799
+Heightened Def Con from 0.000459987 to 0.000459993
+Heightened Def Con from 0.000505379 to 0.000505389
+Heightened Def Con from 0.000506118 to 0.000506124
+Heightened Def Con from 0.000559987 to 0.000559993
+Heightened Def Con from 0.000605379 to 0.000605389
+Heightened Def Con from 0.000606118 to 0.000606124
+Heightened Def Con from 0.000659789 to 0.000659799
+Heightened Def Con from 0.000659987 to 0.000659993
+Heightened Def Con from 0.000705379 to 0.000705389
+Heightened Def Con from 0.000706118 to 0.000706124
+Heightened Def Con from 0.000759987 to 0.000759993
+Heightened Def Con from 0.000805379 to 0.000805389
+Heightened Def Con from 0.000806118 to 0.000806124
+Heightened Def Con from 0.000859789 to 0.000859799
+Heightened Def Con from 0.000859987 to 0.000859993
+Heightened Def Con from 0.000905379 to 0.000905389
+Heightened Def Con from 0.000906118 to 0.000906124
+Heightened Def Con from 0.000959789 to 0.000959798
+Heightened Def Con from 0.000959987 to 0.000959993
+
+Date: Fri May 14 23:55:04 2021
+Total elapsed time: 8.832 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 47175
+traniter = 47154
+tranpoints = 12953
+accept = 9254
+rejected = 3736
+matrix size = 207
+fillins = 123
+solver = Alternate
+Thread vector: 159.8/84.2[8] 27.8/12.3[8] 17.3/8.5[8] 3.8/8.1[1]  2592/500
+Matrix Compiler1: 16.14 KB object code size  20.4/11.7/[7.4]
+Matrix Compiler2: 18.96 KB object code size  11.2/13.7/[3.6]
+

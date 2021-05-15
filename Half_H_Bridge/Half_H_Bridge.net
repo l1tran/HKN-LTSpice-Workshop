@@ -1,0 +1,26 @@
+* C:\Users\lamtu\OneDrive\Documents\My_Projects\GrandPrIEEE\Circuit Simulation\Half_H_Bridge.asc
+D1 VDD N001 B520C
+R1 N003 N002 100 tol=1 pwr=0.1
+XU1 VDD PWM VDD 0 N001 N002 Vout N005 IR2302 Cdelay=50n Rdelay=50 T1=-40 T2=25 T3=125 V1=10 V2=15 V3=20 toffT1=200n toffT2=200n toffT3=200n toffV1=200n toffV2=200n toffV3=200n tonT1=210n tonT2=210n tonT3=210n tonV1=210n tonV2=210n tonV3=210n
+R2 N006 N005 100 tol=1 pwr=0.1
+M3 VDD N003 Vout Vout BSB012NE2LX
+M1 Vout N006 0 0 BSB012NE2LX
+C1 VDD 0 0.1µ V=16 Irms=728m Rser=0.14361 Lser=0 mfg="KEMET" pn="C0603C104K4RAC" type="X7R"
+C2 N001 Vout 6.8µ V=50 Irms=1.44145 Rser=0.09 Lser=0 mfg="KEMET" pn="T521V685M050ATE090" type="Tantalum"
+V1 VDD 0 7.4 Rser=0
+V2 PWM 0 PULSE(0 3.3 1u 0 0 50u 100u)
+C4 VDD 0 0.1µ V=16 Irms=728m Rser=0.14361 Lser=0 mfg="KEMET" pn="C0603C104K4RAC" type="X7R"
+R3 Vout 0 36
+E1 Vout_1 0 N004 N007 1
+R4 Vout N003 10k tol=1 pwr=0.1
+R5 0 N006 10k tol=1 pwr=0.1
+.model D D
+.lib C:\Users\lamtu\OneDrive\Documents\LTspiceXVII\lib\cmp\standard.dio
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\lamtu\OneDrive\Documents\LTspiceXVII\lib\cmp\standard.mos
+.tran 0 10m 0
+;op
+.lib C:\Users\lamtu\OneDrive\Documents\My_Projects\GrandPrIEEE\Spice Parts\microsim-ir2302\IR2302.sub
+.backanno
+.end
